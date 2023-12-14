@@ -1,8 +1,6 @@
 # Mutation-Testing
 Mutation Testing project part of ST
 
-/**************************************************************************************************************************/
-
 ## Problem Description
 
 **Problem Statement**: Mutation source code: Projects that use mutation testing,
