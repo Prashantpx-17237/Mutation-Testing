@@ -11,7 +11,7 @@ method or a function.
 test cases. At least three different mutation operators should be used.
 
 ## PITest Results
-Link to PITest results: [Link](https://htmlpreview.github.io/?https://github.com/pallavjain12/MutationTesting/blob/master/Final%20Report/pit-reports/index.html)
+Link to PITest results: 
 
 ## Execution
 
